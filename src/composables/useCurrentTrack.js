@@ -20,7 +20,7 @@ export function useCurrentTrack() {
 
   function prettifyTime(time) {
     //greasy grinch footprints!
-    // time is in millseconds
+    // time is in seconds
     // you should cnage to minutes:seconds
     return '00:00'
   }
